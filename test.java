@@ -3,5 +3,6 @@ public class test{
 		System.out.println("awdj");
 		String thoughts = "🀀";
 		System.out.println(thoughts);
+		//IDHuaojwfiodioajwdoi
 	}
 }
