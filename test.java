@@ -4,5 +4,6 @@ public class test{
 		String thoughts = "🀀";
 		System.out.println(thoughts);
 		//IDHuaojwfiodioajwdoi n
+		//ujhniuhiuhiuh
 	}
 }
