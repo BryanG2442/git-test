@@ -5,5 +5,6 @@ public class test{
 		System.out.println(thoughts);
 		//IDHuaojwfiodioajwdoi n
 		//ujhniuhiuhiuh
+		//iuhadiuhiuwdh
 	}
 }
